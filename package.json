@@ -1,0 +1,7 @@
+{
+  "name": "github-actions-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "josegoval <josegovalmusic@gmail.com>",
+  "license": "MIT"
+}
