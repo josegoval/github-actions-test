@@ -1,3 +1,11 @@
+# [1.3.0-beta.2](https://github.com/josegoval/github-actions-test/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2023-01-10)
+
+
+### Bug Fixes
+
+* text mistype ([9cfd478](https://github.com/josegoval/github-actions-test/commit/9cfd4783bfd1a1f928a38ee98cba778a7237d559))
+* text mistype ([1f2accd](https://github.com/josegoval/github-actions-test/commit/1f2accdc845669af52a3b2c6852b1b4a721a9cfd))
+
 # [1.3.0-beta.1](https://github.com/josegoval/github-actions-test/compare/v1.2.0...v1.3.0-beta.1) (2023-01-10)
 
 
