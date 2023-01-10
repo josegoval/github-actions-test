@@ -1,6 +1,6 @@
 {
   "name": "github-actions-test-asd",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "main": "index.js",
   "author": "josegoval <josegovalmusic@gmail.com>",
   "license": "MIT",
